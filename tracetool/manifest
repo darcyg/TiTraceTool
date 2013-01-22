@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Darcy.G
+license: Specify your license
+copyright: Copyright (c) 2013 by Your Company
+
+
+# these should not be edited
+name: tracetool
+moduleid: com.visusway.mod.tracetool
+guid: ec2e98f3-6c86-4a41-b974-80c9aacf0a5d
+platform: android
+minsdk: 3.0.0.GA
